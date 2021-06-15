@@ -45,6 +45,11 @@ img {
 .nav-item:nth-child(2) {
   margin-left: 25px;
 }
+
+.nav-btn {
+  display: none;
+}
+
 .top {
   height: 551px;
   background-image: url('https://k-nishi24.github.io/cooding-shcool/image/top-bg.png');
@@ -220,6 +225,10 @@ img {
 @media screen and (max-width: 767px) {
   .header-nav {
     display: none;
+  }
+  
+  .nav-btn {
+    display: block;
   }
 
   .top-title {
