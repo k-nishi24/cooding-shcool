@@ -47,6 +47,10 @@ img {
   margin-left: auto;
 }
 
+.nav-btn {
+  display: none;
+}
+
 .nav-item:nth-child(2) {
   margin-left: 25px;
 }
@@ -246,6 +250,9 @@ img {
 @media screen and (max-width: 767px) {
   .header-nav {
     display: none;
+  }
+  .nav-btn {
+    display: block;
   }
   .top-title {
     font-size: 26px;
