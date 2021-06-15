@@ -57,7 +57,7 @@ img {
 
 .top {
   height: 551px;
-  background-image: url("/image/top-bg.png");
+  background-image: url("https://k-nishi24.github.io/cooding-shcool/image/top-bg.png");
   background-size: cover;
   background-position: center;
 }
@@ -202,7 +202,7 @@ img {
 }
 
 .contact {
-  background-image: url(/image/contact-bg.png);
+  background-image: url(https://k-nishi24.github.io/cooding-shcool/image/contact-bg.png);
   background-size: cover;
   background-position: center;
   height: 455px;
